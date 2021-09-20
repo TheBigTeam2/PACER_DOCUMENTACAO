@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="./imagens/Logo.jpg" />
+  <img alt="Logo" src="./Imagens/Logo.jpg" />
 </p>
 
 <p align="center">
@@ -101,11 +101,11 @@ Equipe 2:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/FelipeNicolettiRMario/"><img src="./Imagens/FelipeNicoletti.jpg" width="100px;" alt=""/><br /><sub><b>Felipe Nicoletti</b></sub></a></td>
-    <td align="center"><a href="https://github.com/giraudgabriel"><img src="./imagens/GabrielGiraud.jpg" width="100px;" alt=""/><br /><sub><b>Gabriel Giraud</b></sub></a></td>
-    <td align="center"><a href="https://github.com/jujalu/"><img src="./imagens/JulianaCosta.jpg" width="100px;" alt=""/><br /><sub><b>Juliana Costa</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Lucas-Povinske/"><img src="./imagens/LucasPovinske.jpg" width="100px;" alt=""/><br /><sub><b>Lucas Povinske</b></sub></a></td>
-    <td align="center"><a href="https://github.com/cMatheusBRibeiro/"><img src="./imagens/MatheusRibeiro.jpg" width="100px;" alt=""/><br /><sub><b>Matheus Ribeiro</b></sub></a></td>
-    <td align="center"><a href="https://github.com/rodrigocr16/"><img src="./imagens/RodrigoReis.jpg" width="100px;" alt=""/><br /><sub><b>Rodrigo Reis</b></sub></a></td>
+    <td align="center"><a href="https://github.com/giraudgabriel"><img src="./Imagens/GabrielGiraud.jpg" width="100px;" alt=""/><br /><sub><b>Gabriel Giraud</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jujalu/"><img src="./Imagens/JulianaCosta.jpg" width="100px;" alt=""/><br /><sub><b>Juliana Costa</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Lucas-Povinske/"><img src="./Imagens/LucasPovinske.jpg" width="100px;" alt=""/><br /><sub><b>Lucas Povinske</b></sub></a></td>
+    <td align="center"><a href="https://github.com/cMatheusBRibeiro/"><img src="./Imagens/MatheusRibeiro.jpg" width="100px;" alt=""/><br /><sub><b>Matheus Ribeiro</b></sub></a></td>
+    <td align="center"><a href="https://github.com/rodrigocr16/"><img src="./Imagens/RodrigoReis.jpg" width="100px;" alt=""/><br /><sub><b>Rodrigo Reis</b></sub></a></td>
   </tr>
 </table>
 
