@@ -100,7 +100,7 @@ Equipe 2:
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/FelipeNicolettiRMario/"><img src="./imagens/FelipeNicoletti.jpg" width="100px;" alt=""/><br /><sub><b>Felipe Nicoletti</b></sub></a></td>
+    <td align="center"><a href="https://github.com/FelipeNicolettiRMario/"><img src="./Imagens/FelipeNicoletti.jpg" width="100px;" alt=""/><br /><sub><b>Felipe Nicoletti</b></sub></a></td>
     <td align="center"><a href="https://github.com/giraudgabriel"><img src="./imagens/GabrielGiraud.jpg" width="100px;" alt=""/><br /><sub><b>Gabriel Giraud</b></sub></a></td>
     <td align="center"><a href="https://github.com/jujalu/"><img src="./imagens/JulianaCosta.jpg" width="100px;" alt=""/><br /><sub><b>Juliana Costa</b></sub></a></td>
     <td align="center"><a href="https://github.com/Lucas-Povinske/"><img src="./imagens/LucasPovinske.jpg" width="100px;" alt=""/><br /><sub><b>Lucas Povinske</b></sub></a></td>
