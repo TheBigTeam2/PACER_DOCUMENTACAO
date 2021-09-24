@@ -83,16 +83,34 @@ https://github.com/TheBigTeam2/PACER_FRONTEND
 
 ### Sprint 2
 
-- A definir.
+- Refinar abertura/fechamento avaliação
+- Refinar lançamento de notas no sistema
+- Funções - CRUD alunos CR
+- Funções - CRUD equipes CR
+- Tela - CRUD equipes CR
+- Tela - CRUD alunos CR
+- Criação do modelo Excel/CSV para importação
 
 ### Sprint 3
 
-- A definir.
+- Import CSV
+- Tela - Import CSV
+- Funções - CRUD professores
+- Tela - CRUD professores
+- Funções - CRUD critérios de avaliação
+- Tela - CRUD critérios avaliação
+- Funções - CRUD alunos UD
+- Funções - CRUD equipes UD
+- Tela - CRUD equipes UD
+- Tela - CRUD alunos UD
 
 ### Sprint 4
 
-- A definir.
-
+- Elemento LGPD
+- Tela - Login
+- Login - Autenticação
+- Relatórios
+- Tela - relatórios
 
 ## Membros da Equipe ✨
 
