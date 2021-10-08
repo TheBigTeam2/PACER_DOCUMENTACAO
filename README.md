@@ -83,8 +83,6 @@ https://github.com/TheBigTeam2/PACER_FRONTEND
 
 ### Sprint 2
 
-- Refinar abertura/fechamento avaliação
-- Refinar lançamento de notas no sistema
 - Funções - CRUD alunos CR
 - Funções - CRUD equipes CR
 - Tela - CRUD equipes CR
@@ -106,6 +104,8 @@ https://github.com/TheBigTeam2/PACER_FRONTEND
 
 ### Sprint 4
 
+- Refinar abertura/fechamento avaliação
+- Refinar lançamento de notas no sistema
 - Elemento LGPD
 - Tela - Login
 - Login - Autenticação
