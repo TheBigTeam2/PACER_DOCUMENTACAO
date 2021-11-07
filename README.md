@@ -101,6 +101,8 @@ https://github.com/TheBigTeam2/PACER_FRONTEND
 - Funções - CRUD equipes UD
 - Tela - CRUD equipes UD
 - Tela - CRUD alunos UD
+- Alteração na busca de usuários e equipes
+- Função Atualizar relacionamento entre equipe e alunos
 
 ### Sprint 4
 
